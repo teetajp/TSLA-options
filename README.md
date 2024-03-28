@@ -23,6 +23,6 @@ Eventually, we will apply the option combinations we deem optimal to best profit
 We will also delta hedge in order to minimize variance in our profits, and backtest our different strategies on prior data to gain a sense for how successful we would be within a larger portfolio. 
 
 **Data Sources**
-https://www.kaggle.com/datasets/kylegraupe/tsla-daily-eod-options-quotes-2019-2022/data
+- https://www.kaggle.com/datasets/kylegraupe/tsla-daily-eod-options-quotes-2019-2022/data
 
    
