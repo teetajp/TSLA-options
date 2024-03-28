@@ -17,7 +17,10 @@ To accomplish this, our first step was to learn more about options theory. Throu
 Aspects we looked into included gaining a foundational understanding of risk management measures (Options Greeks), delta hedging, different options combinations (particularly ATM straddles), and other volatility arbitrage strategies. 
 
 For our project, we then needed to source volatility data. The first step was to access data regarding implied volatility for future Tesla options, which we were able to do through Bloomberg Terminal in the Margolis Market Information Lab. 
-The next step was to come up with ways to forecast future volatility so that we can take advantage of mispriced options based on IV. 
+We now plan to forecast future volatility though machine learning so that we can take advantage of mispriced options based on IV. 
+
+Eventually, we will apply the option combinations we deem optimal to best profit from differences between implied volatility and future realized volatility. 
+We will also delta hedge in order to minimize variance in our profits, and backtest our different strategies on prior data to gain a sense for how successful we would be within a larger portfolio. 
 
 
    
