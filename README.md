@@ -34,3 +34,5 @@ Please put the downloaded data into the `./data` folder.
 - https://www.aimspress.com/aimspress-data/dsfe/2023/3/PDF/DSFE-03-03-016.pdf
 - https://cs230.stanford.edu/projects_fall_2019/reports/26254244.pdf
 - https://cs230.stanford.edu/projects_fall_2019/reports/26260984.pdf
+- https://machinelearningmastery.com/lstm-for-time-series-prediction-in-pytorch/
+- https://machinelearningmastery.com/normalize-standardize-time-series-data-python/
