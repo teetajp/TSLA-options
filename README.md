@@ -28,7 +28,6 @@ Install all Python package dependencies from `requirements.txt` using into a vir
 **Data Sources**
 Please put the downloaded data into the `./data` folder.
 - https://www.kaggle.com/datasets/kylegraupe/tsla-daily-eod-options-quotes-2019-2022/data
-- https://home.treasury.gov/policy-issues/financing-the-government/interest-rate-statistics?data=yield
 
 **References**
 - https://www.aimspress.com/aimspress-data/dsfe/2023/3/PDF/DSFE-03-03-016.pdf
